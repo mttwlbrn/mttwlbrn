@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything data related.
 - 📫 How to reach me: mttwlbrn@gmail.com.
 
+Join the public Tableau Discord server here: https://discord.gg/rGrAHUjJ
+
 <!---
 mttwlbrn/mttwlbrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
